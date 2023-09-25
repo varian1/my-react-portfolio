@@ -1,0 +1,8 @@
+.tabs {
+  background: #ffffff !important;
+  position: sticky;
+  top: 0;
+  border: none;
+  z-index: 999;
+  height: 65px;
+}
